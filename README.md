@@ -12,3 +12,5 @@ cmake -DCMAKE_PREFIX_PATH=$MY_INSTALL_DIR ../..
 make -j
 
 4. Run the vulnerable server: ./greeter_server
+
+The fuzzer uses the python protoc output.  Refer to https://grpc.io/docs/languages/python/quickstart/ to see how to recompile the files.
