@@ -12,3 +12,5 @@ cmake -DCMAKE_PREFIX_PATH=$MY_INSTALL_DIR ../..
 make -j
 
 4. Run the vulnerable server: ./greeter_server
+
+The protos folder holds the protobuf files which are passed in client.py.  These can be changed here and modified in client.py
