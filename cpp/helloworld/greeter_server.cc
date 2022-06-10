@@ -14,6 +14,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *
+ * NOTICE: THIS FILE WAS MODIFIED FROM GRPC REPOSITORY by ikane
+ *
  */
 
 #include <iostream>
